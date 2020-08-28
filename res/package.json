@@ -19,7 +19,7 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-jFUBCdWOA1Ov3xo3oFMBwsdP4Up2K1bRnP4QYI5WqvpaIYxWVek89k2M0oyTbNhYMViGtxJB3Vdwcw8ln8hGQw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-8c550109d58e0353afdf1a37a05301c2.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-fqnZtayqgLCmcQfxXp5OH4orKvv16fP0zCU6Ns+NuAULztoXdSMDcdECjHWSFA018nYJNqWh1OXhgZ9W8EMMQw==" rel="stylesheet" href="https://github.githubassets.com/assets/site-7ea9d9b5acaa80b0a67107f15e9e4e1f.css" />
-    <link crossorigin="anonymous" media="all" integrity="sha512-NvYOH8EfPoUkL/pnbdiG/jpmBFbDYLFq3u7YDcnIoDy8RFMMCj2yxgbWKqSBWRpok0zDEdSYxnLQ0utEcw3BrA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-36f60e1fc11f3e85242ffa676dd886fe.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-fN8XiTy3uS/0K6pumB0JFrrZoLpai1AuRyZBoLm6tH8i4nngYoTN6IUR7x6aegFVHtn8w9ave0QRggWKozu7BQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-7cdf17893cb7b92ff42baa6e981d0916.css" />
     
     
     
@@ -45,7 +45,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="6645:3479:115A970:1C01431:5F4474E8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="325f6110cefc332f7cc8fbcf166c036a9d269656" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI2NjQ1OjM0Nzk6MTE1QTk3MDoxQzAxNDMxOjVGNDQ3NEU4IiwidmlzaXRvcl9pZCI6IjY4MjA1Mzc5ODE4MTcwOTEzMDQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="2fdc3059370e7261494f2b3b370c54fa525abaee2fbbc4d18dba1e72a0801e3b" data-pjax-transient="true"/>
+  <meta name="request-id" content="7628:4152:1313CB7:1CCF5BA:5F495B8E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d13b4b311f827ff1786bf37ca35da69aa5bfa98" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI3NjI4OjQxNTI6MTMxM0NCNzoxQ0NGNUJBOjVGNDk1QjhFIiwidmlzaXRvcl9pZCI6IjIxNzM3MjcwMzA4NTY0ODc4MiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="f7f8b1303e39cf606e2b732760ebe8d8908e1175b503ddcc9f52d773c01046b9" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:228632190" data-pjax-transient>
 
@@ -70,6 +70,7 @@
 
 
 
+
     <meta name="google-analytics" content="UA-3769691-2">
 
 
@@ -90,7 +91,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta http-equiv="x-pjax-version" content="1e8fa9a1520555fc5a492f9e2c4a8f5e">
+  <meta http-equiv="x-pjax-version" content="8687ed860896fc34d37f552a217bbb09">
   
 
       <link href="https://github.com/andreendo/noderacer/commits/master.atom" rel="alternate" title="Recent Commits to noderacer:master" type="application/atom+xml">
@@ -294,7 +295,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="9FnW8CdB0Z53fr87adr+VRznYkovl3kFCCiltuxTb026EdsQSnfNKXUOcB81BoMISJI+1a2vrpDDDqxXNZf14g==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="xq35njk0PB3cl7V3HLc/PKa7Ccf57R+dFhMVjpoc+e7fNiB5859knjDoS6lr6SYYXw9NFdTI2c2NsC4XeCpuUw==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -681,7 +682,7 @@
     <details-menu class="SelectMenu SelectMenu--hasFilter" src="/andreendo/noderacer/refs/master/package.json?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
-          <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+          <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
         </include-fragment>
       </div>
     </details-menu>
@@ -732,69 +733,17 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      
-  <div class="Box-header Box-header--blue Details js-details-container">
-      <div class="d-flex flex-items-center">
-        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/andreendo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/andreendo"><img class="avatar avatar-user" src="https://avatars0.githubusercontent.com/u/7059020?s=48&amp;v=4" width="24" height="24" alt="@andreendo" /></a>
-        </span>
-        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
-          <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold link-gray-dark" rel="author" data-hovercard-type="user" data-hovercard-url="/users/andreendo/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/andreendo">andreendo</a>
-
-              <span>
-                <a data-pjax="true" title="update on package.json" class="link-gray" href="/andreendo/noderacer/commit/20e04adc756e30e1b7a0073a56bcaed5551f5070">update on package.json</a>
-              </span>
-          </div>
-
-
-          <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/andreendo/noderacer/commit/20e04adc756e30e1b7a0073a56bcaed5551f5070/rollup?direction=e" class="d-inline"></include-fragment>
-          </span>
+      <include-fragment src="/andreendo/noderacer/contributors/master/package.json" class="commit-loader">
+        <div class="Box-header Box-header--blue d-flex flex-items-center">
+          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
+          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
         </div>
-        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end text-gray no-wrap">
-          <span class="d-none d-md-inline">
-            <span>Latest commit</span>
-            <a class="text-small text-mono link-gray" href="/andreendo/noderacer/commit/20e04adc756e30e1b7a0073a56bcaed5551f5070" data-pjax>20e04ad</a>
-            <span itemprop="dateModified"><relative-time datetime="2019-12-17T14:34:00Z" class="no-wrap">Dec 17, 2019</relative-time></span>
-          </span>
 
-          <a data-pjax href="/andreendo/noderacer/commits/master/package.json" class="ml-3 no-wrap link-gray-dark no-underline">
-            <svg text="gray" height="16" class="octicon octicon-history text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path></svg>
-            <span class="d-none d-sm-inline">
-              <strong>History</strong>
-            </span>
-          </a>
+        <div class="Box-body d-flex flex-items-center" >
+          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
+          <span class="text-red h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-      </div>
-
-  </div>
-
-  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
-    <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-3" id="blob_contributors_box">
-      <summary class="link-gray-dark">
-        <svg text="gray" height="16" class="octicon octicon-people text-gray" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path></svg>
-        <strong>1</strong>
-        
-        contributor
-      </summary>
-      <details-dialog
-        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
-        aria-label="Users who have contributed to this file"
-        src="/andreendo/noderacer/contributors-list/master/package.json" preload>
-        <div class="Box-header">
-          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-            <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-          </button>
-          <h3 class="Box-title">
-            Users who have contributed to this file
-          </h3>
-        </div>
-        <include-fragment class="octocat-spinner my-3" aria-label="Loading..."></include-fragment>
-      </details-dialog>
-    </details>
-  </div>
-    </div>
+</include-fragment>    </div>
 
 
 
@@ -1182,22 +1131,22 @@
 
     <script crossorigin="anonymous" async="async" integrity="sha512-bn/3rKJzBl2H64K38R8KaVcT26vKK7BJQC59lwYc+9fjlHzmy0fwh+hzBtsgTdhIi13dxjzNKWhdSN8WTM9qUw==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-6e7ff7ac.js"></script>
     <script crossorigin="anonymous" integrity="sha512-CxjaMepCmi+z0LTeztU2S8qGD25LyHD6j9t0RSPevy63trFWJVwUM6ipAVLgtpMBBgZ53wq8JPkSeQ6ruaZL2w==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-0b18da31.js"></script>
-    <script crossorigin="anonymous" async="async" integrity="sha512-IzHxwH/3JQZfzvuwDWsyetKq8ns1nrrFWFyewxnSV8Vtb8hHN+l+BSPfFgYCC4eiNfzk1ZhKQl5WSv5k8dhJcg==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-2331f1c0.js"></script>
-    <script crossorigin="anonymous" async="async" integrity="sha512-9g4iY94Py/Cv/2t9T/eMguBRsoJLont9EqErryS/sqifFb8ZZ5P3DMKP1JjbC0MqYhyAgoQqyJ+9iLKXPRABtA==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-f60e2263.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-ZpT71hbwZH9CGy7BM/GLovEPgyslK7oJpsKzHFJv5wMAhVrxsGpXYoF7aMHGrOu3SQZd9cv/HN+2dn2d/FNx/A==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-6694fbd6.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-cvRQ/2/cKbueC6DEML4Z6tgaTYWc2rbEwXFTUvqZls7IizI5TuSOBhua5UgHHOSvEt2mm3KpB6FxuAOEtz+mTg==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-72f450ff.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-e+Cf/vtdkn4h9lmeSS/UkyzCe2RhELsW3fApDdzT8WzPNaG9y5W5KqyfkCVuGapoI0lkZ+7t22bjf1Fie4MiBA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-bootstrap-7be09ffe.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-asendBl8xOaEqbbOmG2teQ8I2X/O7pS3103VUc5Kv4G+RvxIv/TlUWL8VhxCEXz4g5HSDMRj4T8uCRmbyvb0Og==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-bootstrap-6ac7a774.js"></script>
     
       <script crossorigin="anonymous" async="async" integrity="sha512-TjmDUfspgN28WRWfc01tOL0BFS8pI/TAi8TQ665TcA3jG1C3QgfFu0YKa32Z03rlEL8dukbsy+amwBzgGyjESQ==" type="application/javascript" data-module-id="./Sortable.js" data-src="https://github.githubassets.com/assets/Sortable-4e398351.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-8hScl0DkWwAjCqAQA50kQOn2QTYfPcKEyJjkKYtjGB88r9GB/6kmBBsneJPgwhW3yewwt64ABgsQGpQSLX8zpg==" type="application/javascript" data-module-id="./contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/contributions-spider-graph-f2149c97.js"></script>
-      <script crossorigin="anonymous" async="async" integrity="sha512-p/n2uyeIUJ0ZzcJpzN2xH/pWSc/7ma1KYdOzhZf99ejmsdlsUAl0cXnptZfWJM7Vd8dhQGfhqfn4xJux5cgaVg==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-a7f9f6bb.js"></script>
+      <script crossorigin="anonymous" async="async" integrity="sha512-QOViDUFlNJwNDkBXlntZ4AUm/OFx3TuM7jg4Z1tb3E7dnf3V5p3Oh3E8cwRdjDMDBp4LyOdoBFIhur0biAIdlw==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-40e5620d.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-iLuC2weaJqL9mYAud2WDWjhd8cJe8dXVxw2KhCH2Rnj6WJvTzlZRmvTtL09wNWX6nRze/TDaQ7gq7BFLchaDYg==" type="application/javascript" data-module-id="./image-crop-element-loader.js" data-src="https://github.githubassets.com/assets/image-crop-element-loader-88bb82db.js"></script>
-      <script crossorigin="anonymous" async="async" integrity="sha512-aaWGB9J9tiPrApA/TphHG7EYGpV9Y81ohGUYxy8xm9PAYTFBFWtI36T8g4B8HTJCN7Azzf+WX7x3+rfYb4Nrcg==" type="application/javascript" data-module-id="./jump-to.js" data-src="https://github.githubassets.com/assets/jump-to-69a58607.js"></script>
+      <script crossorigin="anonymous" async="async" integrity="sha512-h6a6OmeoK5aqV+JBs2RH8D1xQ1IS4k67sOi5DUmHMV6dv5xVP4Wj37fKucTbjnvuT1IIO4bC/qfRl+BrCMigjg==" type="application/javascript" data-module-id="./jump-to.js" data-src="https://github.githubassets.com/assets/jump-to-87a6ba3a.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-HzWUeLy0p20M4Lc3+EerTwy/VaH3vMuKLvhFJr0PsJfKXnsD9oy5SfashhxStUirglhYZUB4fLYQRM1uzrFyNg==" type="application/javascript" data-module-id="./profile-pins-element.js" data-src="https://github.githubassets.com/assets/profile-pins-element-1f359478.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-qECv/jhsvLFN77eGNu0cjMR2+zvAlLyhQVTnmayJc5OLZoxMLjQZxZW1hK/dhcYro6Wec/aiF21HYf2N5OilYQ==" type="application/javascript" data-module-id="./randomColor.js" data-src="https://github.githubassets.com/assets/randomColor-a840affe.js"></script>
       <script crossorigin="anonymous" async="async" integrity="sha512-mHqsE5aQq7fAmmLd0epHBJK8rn8DOVnjW2YQOT8wvsN1oLrypw0cDFmwXPDwbMghHyo4kKiOtVJ/kEsEzwwibw==" type="application/javascript" data-module-id="./tweetsodium.js" data-src="https://github.githubassets.com/assets/tweetsodium-987aac13.js"></script>
-      <script crossorigin="anonymous" async="async" integrity="sha512-mNnEQyRrGnUV16QPZbBn02HR4XiKAn0sGYkalkzX4MmAmnmSrkrbIrLCX7/ry3J93s8ehsIoPn6Ua3AMorNgMA==" type="application/javascript" data-module-id="./user-status-submit.js" data-src="https://github.githubassets.com/assets/user-status-submit-98d9c443.js"></script>
+      <script crossorigin="anonymous" async="async" integrity="sha512-WIOX7irV0ZR7jHpy3hhnUvbOMV6Zfu71QFQaANL5zG1k648Mv703s+V2ohGSEhdwf1VC+Bw/NdgyWIQBt+YJLA==" type="application/javascript" data-module-id="./user-status-submit.js" data-src="https://github.githubassets.com/assets/user-status-submit-588397ee.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-T/hG+KzwWgfgb1ltaNIl44CrfWPJLYuJXFsrGGlL1jL1A43eT3GGnTwt+Lpnp/k9WXX6wH92geopZKjtizMzeA==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-4ff846f8.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-Iklsy9YupvgRWe3v9SejEpXhpW3E8+fbRMj46o4nSgLQOmuJbNrYSXBdP08V2fZjf9NGh6ME+7XapmN9UNLcmw==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-22496ccb.js"></script>
   <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
     >
     <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>

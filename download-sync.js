@@ -11,3 +11,7 @@ const download = require('download');
     const execTime = new Date() - start;
     console.log(`Exec time: ${execTime} ms`);
 })();
+
+// Este é o mais lerdo para baixar os arquivos, pois todos os downloads estao 
+//sendo baixados de forma ordenada, um depois do outro, quando um await começa ele
+//deve terminar par o proximo ser executado.

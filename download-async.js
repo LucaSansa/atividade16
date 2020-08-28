@@ -12,3 +12,6 @@ Promise.all([p1, p2, p3, p4])
         const execTime = new Date() - start;
         console.log(`Exec time: ${execTime} ms`);
     });
+// Este é o mais rapido na maioria das vezes, cada variavel recebe um download, e cada variavel 
+// desta forma baixa parte do download, e podem ser executadas de forma paralela entao aqui temos
+// 4 doewloads ocorrendo em quanto no arquivo sync temos um download ocorrendo por partes.
